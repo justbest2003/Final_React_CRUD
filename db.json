@@ -1,0 +1,84 @@
+{
+  "car": [
+    {
+      "id": 1,
+      "brand": "Audi",
+      "model": "Audi S7",
+      "year": "2023",
+      "color": "Grey",
+      "image": "https://source.unsplash.com/random/200x200/?car"
+    },
+    {
+      "id": 2,
+      "brand": "Ford",
+      "model": "Ford Mustang",
+      "year": "2024",
+      "color": "Blue",
+      "image": "https://source.unsplash.com/random/200x200/?car"
+    },
+    {
+      "id": 3,
+      "brand": "Toyota",
+      "model": "Toyota Camry",
+      "year": "2025",
+      "color": "Silver",
+      "image": "https://source.unsplash.com/random/200x200/?car"
+    },
+    {
+      "id": 4,
+      "brand": "Honda",
+      "model": "Honda Civic",
+      "year": "2026",
+      "color": "Red",
+      "image": "https://source.unsplash.com/random/200x200/?car"
+    },
+    {
+      "id": 5,
+      "brand": "Chevrolet",
+      "model": "Chevrolet Corvette",
+      "year": "2025",
+      "color": "Black",
+      "image": "https://source.unsplash.com/random/200x200/?car"
+    },
+    {
+      "id": 6,
+      "brand": "BMW",
+      "model": "BMW X5",
+      "year": "2024",
+      "color": "White",
+      "image": "https://source.unsplash.com/random/200x200/?car"
+    },
+    {
+      "id": 7,
+      "brand": "Mercedes-Benz",
+      "model": "Mercedes-Benz C-Class",
+      "year": "2026",
+      "color": "Silver",
+      "image": "https://source.unsplash.com/random/200x200/?car"
+    },
+    {
+      "id": 8,
+      "brand": "Nissan",
+      "model": "Nissan Altima",
+      "year": "2024",
+      "color": "Blue",
+      "image": "https://source.unsplash.com/random/200x200/?car"
+    },
+    {
+      "id": 9,
+      "brand": "Volkswagen",
+      "model": "Volkswagen Golf",
+      "year": "2023",
+      "color": "Gray",
+      "image": "https://source.unsplash.com/random/200x200/?car"
+    },
+    {
+      "id": 10,
+      "brand": "Hyundai",
+      "model": "Hyundai Sonata",
+      "year": "2025",
+      "color": "White",
+      "image": "https://source.unsplash.com/random/200x200/?car"
+    }
+  ]
+}
